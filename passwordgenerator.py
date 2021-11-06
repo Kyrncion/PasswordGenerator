@@ -14,4 +14,4 @@ length = 25 # Change Value To The Number Of Characters You Want Your Password To
 password = "".join ( random.sample ( all,length ) )
 print ( " Here is your randomly generated passowrd: " , password )
 
-# Run Command By Typing 'passgen.py' In The Terminal
+# That's Literally It, It's That Simple.
